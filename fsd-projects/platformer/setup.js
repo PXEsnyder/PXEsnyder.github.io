@@ -98,4 +98,8 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
+  dg: {image: "https://i.imgur.com/CNl1lp6.png"},
+  eversince: {image: "https://images.genius.com/2df0dbd58a387615bd7ac5ea9a8378c6.1000x1000x1.jpg"},
+  icedancer: {image: "https://images.genius.com/5085bb85a1459e2edde86cdc3da324b3.1000x1000x1.jpg"},
+  cold: {image: "https://images.genius.com/19aeb0db5af24404727d71121bf1100a.1000x1000x1.png"},
 };

@@ -33,19 +33,19 @@ $(function () {
     // TODO 2 - Create Platforms
     createPlatform(0, 200, 150, 20, "black");
     createPlatform(250, 100, 10, 3, "black");
-    createPlatform(0, 500, 100, 1, "blacl");
-    createPlatform(390, 500, 20,1 );
+    createPlatform(0, 500, 100, 5, "black");
+    createPlatform(390, 500, 20, 1, "black");
     createPlatform(550, 650, 3, 1, "black");
-    createPlatform(820, 696, 80, 1, "teal");
-    createPlatform(1150, 696, 80, 1);
+    createPlatform(820, 696, 80, 1, "black");
+    createPlatform(1150, 696, 80, 1, "black");
 
 
 
 
     // TODO 3 - Create Collectables
-    createCollectable("diamond", 233, 50);
-    createCollectable("database", 600, 0, 0.012, 0);
-    createCollectable("steve", 1150, 650);
+    createCollectable("cold", 233, 50);
+    createCollectable("icedancer", 600, 0, 0.012, 0);
+    createCollectable("eversince", 1150, 650);
 
 
     
